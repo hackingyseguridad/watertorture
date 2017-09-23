@@ -15,3 +15,7 @@ NSLOOKUP %ran%.hackingyseguridad.es 8.8.8.8
 
 goto loop
 
+#
+# www.hackingyseguridad.com
+#
+

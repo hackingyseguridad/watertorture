@@ -10,8 +10,11 @@ echo "Script consulta masiva resolución inversa IP al DNS autoritativo"
 echo "Uso.: sh inversas.sh IP"
 echo
 
+contador=0
+
 while : ;do
 
         dig -x $1 $2 $3
+        contador=`expr $contador + 1`; 	echo "Consulta numero: " $contador
 
 done

@@ -3,7 +3,7 @@
 import socket
 import sys
 
-print('Test vulnerabilidad TKEY DNS server BIND9 ')
+print('Test vulnerabilidad TKEY DNS server BIND9 https://www.exploit-db.com/exploits/37723/ ')
 
 if len(sys.argv) < 2:
         print('Uso: python ' + sys.argv[0] + ' [IP]')

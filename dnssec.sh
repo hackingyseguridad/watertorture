@@ -1,7 +1,7 @@
 #
-# Script para test stress consultas al DNS autoritativo resolucion inversa de IP
-# Uso.: sh invesass.sh IP_publica
-# (c) www.hackingyseguridad.com 2017
+# Script para test stress consultas al DNS autoritativo resolucion con dnssec
+# 
+# (c) www.hackingyseguridad.com 2018
 #
 
 #!/bin/bash

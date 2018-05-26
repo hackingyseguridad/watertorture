@@ -1,2 +1,3 @@
 #!/bin/bash
-while : do; dig @$1 dnssec; done;
+echo "Uso: sh dnssec.sh dns_autoritativo dominio.com"
+while : do; dig @$1 $2 dnssec; done;

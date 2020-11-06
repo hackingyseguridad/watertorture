@@ -3,8 +3,7 @@
 TEST STRESS DNS "WATER TORTURE"
 Multitud de consultas de subdominios aleatorios e inexistententes de mydomain.com. Objetivo colapso del servidor DNS autoritavo donde esta registrado mydomain.com
 
-
-
+<img style="float:left" alt="netspy logo" src="https://github.com/hackingyseguridad/watertorture/blob/master/watertorture.png">
 
 watertorture.bat ;Water Torture DNS autoritativo con proceso por lotes Bath MS-DOS:
 Consultas subdominios aleatorios de un dominio.

@@ -1,6 +1,6 @@
 # hackingyseguridad.com
 # test de stress zonas dns
-# Uso: sh estresszonadns.sh nombrezona.
+# Uso: sh estresszonadns.sh nombrezona
 
 #!/bin/bash
 echo
